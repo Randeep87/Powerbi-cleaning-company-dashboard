@@ -37,7 +37,8 @@ This project presents a professional Power BI dashboard analyzing a cleaning ser
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
 3. Explore interactive visuals
-
+## 📸 Dashboard Preview
+![Dashboard](screenshot.png)
 
 ## 👤 Author
 
